@@ -1,6 +1,7 @@
 # Binary Search Algorithms;
-#  Binary Search is an algorithm used for sarching for an element in an array
-# if the element existed, function will retuen the index of element in the array, else will return None
+# Binary Search is an algorithm used for searching for an element in an array
+# the array must be a sorted one
+# if the element existed, the function will return the index of stuff in the collection, else will return None
 
 lis1 = [1, 2, 4, 5, 6, 7, 8, 9]
 
