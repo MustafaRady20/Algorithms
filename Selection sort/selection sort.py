@@ -19,3 +19,4 @@ size = len(arr)
 selectionSort(arr, size)
 print('The array after sorting in Ascending Order by selection sort is:')
 print(arr)
+
